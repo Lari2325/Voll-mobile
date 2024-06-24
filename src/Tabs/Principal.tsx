@@ -5,6 +5,7 @@ import { EntradaTexto } from "../componentes/EntradaTexto";
 import { Titulo } from "../componentes/Titulo";
 import { depoimentos } from "../utils/mock";
 
+
 export default function Principal(){
 
   return (
